@@ -23,3 +23,4 @@ stop = timeit.default_timer()
 execution_time = stop - start
 
 print("Seconds to execute the program is := "+str(execution_time))
+python Matrix-multiplication.py
